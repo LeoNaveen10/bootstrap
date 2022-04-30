@@ -1,0 +1,21 @@
+ body{
+     background:url(arsenal.jpg) no-repeat center center fixed;
+     background-size: cover;
+ }
+
+
+ .hero{
+     color:rgb(28, 170, 206);
+     margin-top: 20%;
+     text-align: center;
+     font-size: 75px;
+     letter-spacing: -.05em;
+     line-height:  1  cm ;
+     font-family:fantasy;
+     
+ }
+
+ .ima{
+     height: 500px;
+      width: 400px;
+ }
